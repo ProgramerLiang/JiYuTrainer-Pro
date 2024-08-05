@@ -1,0 +1,2 @@
+# JiYuTrainer-Pro
+有些学校有一些缺德小孩会使用系统杀毒功能杀死JiYuTrainer，故特开此项目，尝试实现免杀的Trainer
